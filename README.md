@@ -5,7 +5,7 @@ A WooCommerce plugin that shows a progress bar towards free shipping with the am
 ![Cart page with a progress bar showing the amount still missing for free shipping](images/free-shipping-bar-progress.png)
 
 **Compatibility:** WordPress 6.0+ · WooCommerce 8.0+ · PHP 8.1 – 8.4 · Block-based and classic cart/checkout · HPOS
-**License:** free · **Current version:** see [Releases](../../releases)
+**License:** commercial · **Current version:** see [Releases](../../releases)
 
 ## Features
 
@@ -33,7 +33,7 @@ A WooCommerce plugin that shows a progress bar towards free shipping with the am
 
 ## Installation
 
-The plugin is free. Get the zip from the [product page](https://www.threecommerce.it/barra-spedizione-gratuita-woocommerce?utm_source=github&utm_medium=readme&utm_campaign=woocommerce-free-shipping-bar) (free order, then download it from My Account), then in WordPress go to **Plugins → Add New → Upload Plugin**, upload the zip and activate it.
+The plugin is a commercial product at a low price. Buy it from the [product page](https://www.threecommerce.it/barra-spedizione-gratuita-woocommerce?utm_source=github&utm_medium=readme&utm_campaign=woocommerce-free-shipping-bar), download the zip from My Account, then in WordPress go to **Plugins → Add New → Upload Plugin**, upload the zip and activate it.
 
 ## Configuration
 
