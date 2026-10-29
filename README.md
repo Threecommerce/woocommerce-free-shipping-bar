@@ -2,6 +2,8 @@
 
 A WooCommerce plugin that shows a progress bar towards free shipping with the amount still missing, updates when the customer changes the cart and confirms when the threshold is reached. It is the WooCommerce port of our Magento 2 free shipping bar.
 
+![Cart page with a progress bar showing the amount still missing for free shipping](images/free-shipping-bar-progress.png)
+
 **Compatibility:** WordPress 6.0+ · WooCommerce 8.0+ · PHP 8.1 – 8.4 · Block-based and classic cart/checkout · HPOS
 **License:** free · **Current version:** see [Releases](../../releases)
 
@@ -15,6 +17,12 @@ A WooCommerce plugin that shows a progress bar towards free shipping with the am
 - **Messages** per state with the `{remaining}` and `{threshold}` placeholders and limited HTML. English texts by default, Italian translation included.
 - **Colors** from the panel or from your theme with the `--tc-fsb-color` and `--tc-fsb-reached` CSS variables.
 - Compatible with **HPOS** and the Cart/Checkout blocks. No external JavaScript dependency.
+
+![Cart page once the free shipping threshold is reached](images/free-shipping-bar-reached.png)
+
+![Empty cart showing the free shipping threshold](images/free-shipping-bar-empty-cart.png)
+
+![Plugin settings: placement, threshold source, per-country thresholds, messages and colors](images/free-shipping-bar-settings.png)
 
 ## Requirements
 
