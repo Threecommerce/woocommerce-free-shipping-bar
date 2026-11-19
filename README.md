@@ -4,7 +4,7 @@ A WooCommerce plugin that shows a progress bar towards free shipping with the am
 
 ![Cart page with a progress bar showing the amount still missing for free shipping](images/free-shipping-bar-progress.png)
 
-**Compatibility:** WordPress 6.0+ · WooCommerce 8.0+ · PHP 8.1 – 8.4 · Block-based and classic cart/checkout · HPOS
+**Compatibility:** WordPress 6.0+ · WooCommerce 8.0+ · PHP 8.1 – 8.5 · Block-based and classic cart/checkout · HPOS
 **License:** commercial · **Current version:** see [Releases](../../releases)
 
 ## Features
@@ -27,7 +27,7 @@ A WooCommerce plugin that shows a progress bar towards free shipping with the am
 ## Requirements
 
 - WordPress 6.0 or newer
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 - WooCommerce 8.0 or newer (developed and tested on 10.9.4); the block-based cart and checkout need the WooCommerce Store API
 - At least one active shipping method: WooCommerce treats a cart as "no shipping needed" when the store has none, and the bar does not appear (as with virtual-only carts)
 
